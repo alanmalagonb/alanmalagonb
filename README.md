@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Web, Mobile, AI and Data Projects<br>🌱 I’m currently learning React<br>💬 How to reach me alanmalagonb@gmail.com<br>⚡ Fun fact I love everything about South Korea 
+👯 I’m looking to collaborate on Web, Mobile, AI and Data Projects<br>🌱 I’m currently learning React and PowerBI<br>💬 How to reach me alanmalagonb@gmail.com<br>⚡ Fun fact I love everything about South Korea 
 
 
 ## 🌐 Socials:
